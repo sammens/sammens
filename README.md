@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sammens
-- 👀 I’m interested in Deep Learning, specifically in Attention Mechanisms.
+- 👋 Hi, I’m Samuel Ofosu Mensah.
+- 👀 I'm interested in Deep Learning, specifically in Attention Mechanisms.
 - 🌱 I’m currently doing my PhD.
 - 📫 How to reach me by sending me an email to samuelmensah@aims.ac.za
 
